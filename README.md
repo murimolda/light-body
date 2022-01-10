@@ -1,3 +1,3 @@
 # light-body
 
-https://murimolda.github.io/FonDesign-site/
+https://murimolda.github.io/light-body/
